@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejasviniseth
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning embedded javascript templates and sql
+- 🌱 I’m currently learning mongodb
 - 📫 How to reach me sethtejasvini@gmail.com
 - 😄 Pronouns: she/her
 
