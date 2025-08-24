@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tejasvini Seth</h1>
 <h3 align="center">A passionate fullstack web-developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [tejasviniseth.netlify.app](tejasviniseth.netlify.app)
 
-- 💬 Ask me about **Web Development, C**
+- 💬 Ask me about **Web Development, C, Python**
 
 - 📫 How to reach me **sethtejasvini@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cseLO7GtFvsGu5GjeLj7hBCMnR9akYng/view?usp=sharing](https://drive.google.com/file/d/1cseLO7GtFvsGu5GjeLj7hBCMnR9akYng/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/drive/u/3/home
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
